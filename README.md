@@ -1,7 +1,7 @@
 Note:
 
 The annex will be used as support materials of this paper "Ultra-Minimal Strain-Based Tactile HCI Device for Force/Position Interaction in Severe Upper-Limb Impairments".
-These codes and videos are just for peer review and academic exchanges. Please don't make them for other commercial use without permission. If you are interested in our research work or have any questions, please do not hesitate to contact us.
+These codes are just for peer review and academic exchanges. Please don't make them for other commercial use without permission. If you are interested in our research work or have any questions, please do not hesitate to contact us.
 To comply with the journal’s page limit (less than ten pages) for the initial submission, some context of this paper has been made available at: (https://github.com/HuntingStar/UMSTD_Supplementary_Information). The detailed file directory and description are shown as follows.
 
 ├─ codes ## Codes File. These codes are used to train the model proposed in this paper.
